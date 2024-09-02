@@ -1,6 +1,6 @@
 {
     "name": "ogl",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "WebGL Library",
     "type": "module",
     "main": "./src/index.js",
@@ -35,7 +35,7 @@
         "bracketSpacing": true,
         "endOfLine": "lf",
         "htmlWhitespaceSensitivity": "css",
-        "printWidth": 150,
+        "printWidth": 200,
         "quoteProps": "as-needed",
         "semi": true,
         "singleQuote": true,
